@@ -1,8 +1,8 @@
 # zooart-testing
 
-Projekt przygotowany na potrzeby przedmiotu Wprowadzenie do testowania.
-Temat projektu: Testowanie UI
-Strona wykorzystana do testów: zooart.com.pl
+Projekt przygotowany na potrzeby przedmiotu Wprowadzenie do testowania. <br />
+Temat projektu: Testowanie UI <br />
+Strona wykorzystana do testów: zooart.com.pl <br />
 
 Dodatkowe opcje VM potrzebne do prawidłowego działania:
 ```sh
